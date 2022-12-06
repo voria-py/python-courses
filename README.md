@@ -8,3 +8,5 @@ Simple exam projects.
 Algorithms and Fun.
 <br>
 Use simple packages.
+<br>
+تمرین های دوره پایتون مقدماتی و پیشرفته
